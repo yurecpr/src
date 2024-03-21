@@ -4,5 +4,11 @@ body {
 
 footer {
     background: blue;
-    /* comment from D2 */
+  /* comment from D2 */
+}
+
+header{
+    background-color: aquamarine;
+    text-align: center;
+    /*fhom D1*/
 }
