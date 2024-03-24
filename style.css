@@ -2,10 +2,20 @@ body {
     /* И тут тоже */
     background-color: orange;
 }
+main {
+    background-color: black;
+/*  comment from d1*/
+}
 
 footer {
     background: blue;
   /* comment from D2 */
+}
+
+main {
+    /* commit by D2 */
+    background: beige;
+    color: aqua;
 }
 
 header{
